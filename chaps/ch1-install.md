@@ -16,7 +16,7 @@
   - MB3 on the 鯨魚小圖示 -> Settings
   - Resources -> ADVANCED -> **"Disk image location"**, 更改 image 的儲存位置
     <div  align="center">    
-        <img src="./../imgs/image_path.png" width="50%" alt="settings" />
+        <img src="./../imgs/image_path.png" width="90%" alt="settings" />
     </div>
 
 
