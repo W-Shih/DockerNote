@@ -43,7 +43,7 @@
 
 
 ## 建立專案
-- cmd 執行
+- cmd 移動至 `docker-compose.yml` 所在的 directory 並執行
     ```bash
     > docker-compose up -d
     ```
